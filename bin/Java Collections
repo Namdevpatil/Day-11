@@ -1,0 +1,37 @@
+Array: 
+
+1. stores similar type of values/objects in a variable
+2. array works based on index concepts.
+
+problems:
+
+1. array size is fixed, when create an array when need to provide size of an array.
+2. only stores similar type of values/objects, but not stores dissimilar type of values/objects
+3. do not have API support.
+
+
+To overcome above problems we use "java collection API".
+
+Java Collections:
+
+all java collections classes and interfaces are part of "java.util" package.
+
+1. java collections size is not fixed, it will grows/shrink based on the manipulation of values/objects.
+2. stores similar and dissimilar type of values/objects
+3. We have proper API support.
+
+** Java has two types of collections
+	- value-based collections
+		- for example, List, Set, Queue, Stack...etc
+		
+		Task: LinkedList, Vector and Stack
+		
+		List collection features:
+		
+		1. list collections stores duplicate values and null values
+		
+	- key-value based collections
+		- for example, Map
+		
+	
+		
